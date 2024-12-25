@@ -62,7 +62,7 @@ https://eugene-portfolio-sable.vercel.app/
 
 its kinda bad but I spent some hard hours on it
 
-custom domain ehhhh maybesometime
+custom domain coming s o o n ™
 
 ---
 
