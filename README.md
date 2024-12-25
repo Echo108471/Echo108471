@@ -57,7 +57,14 @@ Majors: Computer Science & Managerial Economics
 kinda fun spamming icons
 
 ---
+pls check out my website!
+https://eugene-portfolio-sable.vercel.app/
 
+its kinda bad but I spent some hard hours on it
+
+custom domain ehhhh maybesometime
+
+---
 
 ## 📝 current favorite quote
 
