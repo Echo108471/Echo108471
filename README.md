@@ -58,11 +58,12 @@ kinda fun spamming icons
 
 ---
 pls check out my website!
-https://eugene-portfolio-sable.vercel.app/
+https://eacho.me/
 
 its kinda bad but I spent some hard hours on it
 
-custom domain coming s o o n ™
+~~custom domain coming s o o n ™~~
+custom domain is here !!
 
 ---
 
@@ -83,4 +84,4 @@ custom domain coming s o o n ™
 
 > if u read this honestly im flattered
 
-> ill buy you food sometime lol
+> ill buy you boba sometime lol
