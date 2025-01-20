@@ -12,7 +12,7 @@ University: University of California, Davis
 Majors: Computer Science & Managerial Economics
 ```
 
-💻 I am most interested in **bioinformatics** and **full-stack development**. My goal is to build impactful projects that bridge technology and biology. 
+💻 I am most interested in **bioinformatics** and **full-stack development**. My goal is to build impactful projects that bridge technology and other disciplines. 
 
 ---
 
