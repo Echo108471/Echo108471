@@ -77,7 +77,7 @@ custom domain is here !!
 ## 📫 Contact Me
 
 📧 Email: [eugene.a.cho@gmail.com](mailto:eugene.a.cho@gmail.com)  
-🌐 LinkedIn: [Eugene Cho](https://www.linkedin.com/in/eugene-cho-8b4376218/)  
+🌐 LinkedIn: [Eugene Cho](https://www.linkedin.com/in/eachoo/)  
 💻 Discord: echo256
 
 ---
