@@ -9,7 +9,7 @@ attempting to showcase my (lack of) skills, projects, and experiences as a so ca
 ```yaml
 Name: Eugene Cho
 University: University of California, Davis
-Majors: Computer Science & Managerial Economics
+Major: Computer Science
 ```
 
 💻 I am most interested in **bioinformatics** and **full-stack development**. My goal is to build impactful projects that bridge technology and other disciplines. 
