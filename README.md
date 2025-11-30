@@ -12,7 +12,7 @@ University: University of California, Davis
 Major: Computer Science
 ```
 
-💻 I am most interested in **bioinformatics** and **full-stack development**. My goal is to build impactful projects that bridge technology and other disciplines. 
+💻 I am currently most interested in *full-stack development**. My goal is to build impactful projects that bridge technology and other disciplines. 
 
 ---
 
@@ -60,11 +60,6 @@ kinda fun spamming icons
 pls check out my website!
 https://eacho.me/
 
-its kinda bad but I spent some hard hours on it
-
-~~custom domain coming s o o n ™~~
-custom domain is here !!
-
 ---
 
 ## 📝 current favorite quote
@@ -76,9 +71,8 @@ custom domain is here !!
 
 ## 📫 Contact Me
 
-📧 Email: [eugene.a.cho@gmail.com](mailto:eugene.a.cho@gmail.com)  
-🌐 LinkedIn: [Eugene Cho](https://www.linkedin.com/in/eachoo/)  
-💻 Discord: echo256
+Email: [eugene.a.cho@gmail.com](mailto:eugene.a.cho@gmail.com)  
+LinkedIn: [Eugene Cho](https://www.linkedin.com/in/eachoo/)  
 
 ---
 
