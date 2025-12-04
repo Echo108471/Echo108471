@@ -12,7 +12,7 @@ University: University of California, Davis
 Major: Computer Science
 ```
 
-💻 I am currently most interested in *full-stack development**. My goal is to build impactful projects that bridge technology and other disciplines. 
+💻 I am currently most interested in **full-stack development**. My goal is to build impactful projects that bridge technology and other disciplines. 
 
 ---
 
